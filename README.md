@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amrmarey15
-- 👀 I’m interested in Power electonics, control systems, machine learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Power electonics, control systems, machine learning, communications systems
+- 🌱 I’m currently learning theoretical machine learning, digitial communications for modulation classification, shell-scripting on Linux 
+- 💞️ I’m looking to collaborate on anything that Machine learning can be applied to. Right now, I am very interested in the field and I would love to hear your idea to see how we can work as a team to apply ML together. Furthermore, aside
 - 📫 How to reach me ...
 
 <!---
